@@ -11,6 +11,12 @@ h1 {
     line-height: 1.5;
     font-weight: 900;
 }
+
+h2 {
+    font-family: "Montserrat";
+    font-size: 3rem;
+    font-weight: bold;
+}
 .container-fluid{
     padding: 3% 15%;
 }
@@ -79,8 +85,13 @@ h1 {
 #features {
     padding: 7% 15%;
 }
+.pebble {
+    width: 10%;
+}
 
 #testimonials {
     padding: 7% 15%;
     text-align: center;
+    background-color: #ef8172;
+    color: #fff;
 }
